@@ -3,7 +3,6 @@
   <img src="https://github.com/user-attachments/assets/80dcc902-ebc6-473c-95bd-41ea616f36b1" width="600" height="283">
 </p>
 
-## Description
 EPL ABR Dataframe Compiler takes a folder with analyzed EPL Auditory Brainstem Response (ABR) .txt files (data files can be present in the same folder without issue) that were generated with [ABR Peak Analysis](https://github.com/EPL-Engineering/abr-peak-analysis) (version 1.10.1). Based on P and N amplitudes, ABR wave 1-5 are calculated for each frequency and are displayed in a 'long' dataframe format for data analysis. Amplitudes that were measured at intensities under the set threshold are automatically set to 0. The merged, analyzed files are exported in a single .xlsx file with color-coded values for analysis.
 
 ## Features
